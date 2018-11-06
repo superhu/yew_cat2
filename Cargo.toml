@@ -1,0 +1,9 @@
+[package]
+name = "yew_cat"
+version = "0.1.0"
+authors = ["superhu <569791786@qq.com>"]
+edition = "2018"
+
+[dependencies]
+yew = {git="https://github.com/DenisKolodin/yew.git"}
+#stdweb = "0.4.2"
